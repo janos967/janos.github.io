@@ -1,0 +1,37 @@
+div{
+  background: orange;
+  padding: 30px;
+  font-family:"sans-serif";
+}
+
+h1{
+  background: red; 
+  margin: 20px;
+  border: 2px solid withe;
+  border-width: 1px 2px 3px 4px;
+  width: 400px;
+  height: 100px ;
+  font size: 60px;
+}
+
+h3{
+ color: red; 
+ background: blue;
+  margin: 30px;
+  margin-top: 10;
+  margin-bottom: 50;
+  margin-rigth: 10;
+}
+
+p, ol{
+  margin: 0;
+}
+
+
+#nevInputMezo{
+  background: yellow;
+}
+
+.citrom{
+  background: pink;
+}
